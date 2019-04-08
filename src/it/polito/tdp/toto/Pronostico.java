@@ -17,7 +17,7 @@ public class Pronostico {
 		if(colonna.size()<N) {
 			colonna.add(p) ;
 		} else {
-			throw new IllegalStateException("Too many elements in Proonostico") ;
+			throw new IllegalStateException("Too many elements in Pronostico") ;
 		}
 	}
 	
